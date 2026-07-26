@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Ali Khan",
+        "email": "ali.khan@example.com",
+        "role": "Developer",
+        "assigned_location": "Gwenborough"
+    },
+    {
+        "id": "2",
+        "name": "Sara Ahmed",
+        "email": "sara.a@example.com",
+        "role": "Data Scientist",
+        "assigned_location": "Wisokyburgh"
+    },
+    {
+        "id": "4",
+        "name": "Usman Tariq",
+        "email": "usman.tariq@example.com",
+        "role": "AI Engineer",
+        "assigned_location": "McKenziehaven"
+    },
+    {
+        "id": "6",
+        "name": "Zain Raza",
+        "email": "zain.raza@example.com",
+        "role": "Developer",
+        "assigned_location": "South Elvis"
+    },
+    {
+        "id": "8",
+        "name": "Hamza Bilal",
+        "email": "hamza.b@example.com",
+        "role": "AI Engineer",
+        "assigned_location": "Roscoeview"
+    },
+    {
+        "id": "9",
+        "name": "Fatima Noor",
+        "email": "fatima.n@example.com",
+        "role": "Data Scientist",
+        "assigned_location": "South Christy"
+    }
+]
