@@ -1,0 +1,11 @@
+id,name,email,role
+1,Ali Khan,ali.khan@example.com,Developer
+2,Sara Ahmed,sara.a@example.com,Data Scientist
+3,,missing_name@example.com,Intern
+4,Usman Tariq,usman.tariq@example.com,AI Engineer
+5,Ayesha Malik,,Analyst
+6,Zain Raza,zain.raza@example.com,Developer
+7,,unknown_user@example.com,Tester
+8,Hamza Bilal,hamza.b@example.com,AI Engineer
+9,Fatima Noor,fatima.n@example.com,Data Scientist
+10,Bilal Sheikh,,Intern
