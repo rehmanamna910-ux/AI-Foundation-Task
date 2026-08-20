@@ -12,7 +12,7 @@ print(f"Loaded API Key: {api_key}")
 # 2. Read CSV Data without Pandas
 print("\n--- Reading Data ---")
 raw_data = []
-with open("input_data.csv", mode="r") as file:
+with open("Week_2/input_data.csv", "r") as file:
     reader = csv.DictReader(file)
     for row in reader:
         raw_data.append(row)

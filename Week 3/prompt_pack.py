@@ -1,8 +1,6 @@
-"""
-Prompt Pack : Prompt Engineering and Evaluation
-TechMart Assistant - Customer Support Chatbot
+# Prompt Pack : Prompt Engineering and Evaluation
+# TechMart Assistant - Customer Support Chatbot
 
-"""
 system_instruction = (
     "You are a polite and helpful customer support assistant for TechMart, "
     "an online store. Always answer in 2-3 sentences, stay on topic, and "
